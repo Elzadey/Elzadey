@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="190" viewBox="0 0 400 190"><style>
 text{font-family:'Segoe UI',Ubuntu,sans-serif}
-.t{fill:#ff4d9d;font-size:18px;font-weight:700}
-.l{fill:#f4f1e8;font-size:14px}
-.v{fill:#ff4d9d;font-size:14px;font-weight:700}
+.t{fill:#d9774a;font-size:18px;font-weight:700}
+.l{fill:#f4ece4;font-size:14px}
+.v{fill:#d9774a;font-size:14px;font-weight:700}
 .fade{opacity:0;animation:f .6s ease forwards}
 @keyframes f{to{opacity:1}}
 .bar{transform-origin:left;animation:g 1s ease forwards;transform:scaleX(0)}
 @keyframes g{to{transform:scaleX(1)}}
-</style><rect x="1" y="1" width="398" height="188" rx="10" fill="#11120f" stroke="#3a2230"/><text x="25" y="35" class="t">GitHub Stats</text><g class="fade" style="animation-delay:0.0s"><text x="25" y="70" class="l">Public Repos</text><text x="375" y="70" class="v" text-anchor="end">6</text></g><g class="fade" style="animation-delay:0.15s"><text x="25" y="98" class="l">Total Stars</text><text x="375" y="98" class="v" text-anchor="end">0</text></g><g class="fade" style="animation-delay:0.3s"><text x="25" y="126" class="l">Followers</text><text x="375" y="126" class="v" text-anchor="end">2</text></g><g class="fade" style="animation-delay:0.44999999999999996s"><text x="25" y="154" class="l">Following</text><text x="375" y="154" class="v" text-anchor="end">3</text></g></svg>
+</style><rect x="1" y="1" width="398" height="188" rx="10" fill="#14110f" stroke="#3a2e27"/><text x="25" y="35" class="t">GitHub Stats</text><g class="fade" style="animation-delay:0.0s"><text x="25" y="70" class="l">Public Repos</text><text x="375" y="70" class="v" text-anchor="end">6</text></g><g class="fade" style="animation-delay:0.15s"><text x="25" y="98" class="l">Total Stars</text><text x="375" y="98" class="v" text-anchor="end">0</text></g><g class="fade" style="animation-delay:0.3s"><text x="25" y="126" class="l">Followers</text><text x="375" y="126" class="v" text-anchor="end">2</text></g><g class="fade" style="animation-delay:0.44999999999999996s"><text x="25" y="154" class="l">Following</text><text x="375" y="154" class="v" text-anchor="end">3</text></g></svg>
