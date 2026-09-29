@@ -3,8 +3,7 @@ from collections import Counter
 
 USER = "Elzadey"
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
-BG, BORDER, ACCENT, TEXT = "#11120f", "#3a2230", "#ff4d9d", "#f4f1e8"
-
+BG, BORDER, ACCENT, TEXT = "#14110f", "#3a2e27", "#d9774a", "#f4ece4"
 def get(url):
     headers = {"Accept": "application/vnd.github+json"}
     if TOKEN:
