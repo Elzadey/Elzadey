@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="172" viewBox="0 0 400 172"><style>
+text{font-family:'Segoe UI',Ubuntu,sans-serif}
+.t{fill:#d4e157;font-size:18px;font-weight:700}
+.l{fill:#e6e8d5;font-size:14px}
+.v{fill:#d4e157;font-size:14px;font-weight:700}
+.fade{opacity:0;animation:f .6s ease forwards}
+@keyframes f{to{opacity:1}}
+.bar{transform-origin:left;animation:g 1s ease forwards;transform:scaleX(0)}
+@keyframes g{to{transform:scaleX(1)}}
+</style><rect x="1" y="1" width="398" height="170" rx="10" fill="#11120f" stroke="#3f4a22"/><text x="25" y="35" class="t">Top Languages</text><text x="25" y="62" class="l">HTML</text><text x="375" y="62" class="v" text-anchor="end">40%</text><rect x="25" y="68" width="350" height="6" rx="3" fill="#3f4a22"/><rect class="bar" x="25" y="68" width="140" height="6" rx="3" fill="#d4e157" style="animation-delay:0.0s"/><text x="25" y="92" class="l">Python</text><text x="375" y="92" class="v" text-anchor="end">40%</text><rect x="25" y="98" width="350" height="6" rx="3" fill="#3f4a22"/><rect class="bar" x="25" y="98" width="140" height="6" rx="3" fill="#d4e157" style="animation-delay:0.15s"/><text x="25" y="122" class="l">Jupyter Notebook</text><text x="375" y="122" class="v" text-anchor="end">20%</text><rect x="25" y="128" width="350" height="6" rx="3" fill="#3f4a22"/><rect class="bar" x="25" y="128" width="70" height="6" rx="3" fill="#d4e157" style="animation-delay:0.3s"/></svg>
