@@ -8,7 +8,7 @@
 
 ![About Me](https://capsule-render.vercel.app/api?type=rect&height=48&color=11120f&text=About%20Me&fontColor=ff4d9d&fontSize=22&fontAlign=16&fontAlignY=52)
 
-Hi, I'm **Alshimaa** 👋
+Hi, I'm **Alshimaa** 
 3rd-year Computer Science student at Tanta University, passionate about **Data Engineering, AI & Deep Learning**.
 I build with **Python, SQL, Machine Learning, CNNs, Data Quality, and Automation** — from Emotion Recognition models to intelligent data systems.
 
